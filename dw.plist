@@ -19,13 +19,13 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>lexiang.ipa-resigned.png</string>
+                    <string>https://pkg-static-dwhb.duowanhongbao.com/png/169a91ccceac46375458cc0772eb3e97.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.lxhb.kwzs</string>
+                <string>com.um.dwwd</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
